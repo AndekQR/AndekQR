@@ -1,16 +1,16 @@
-### Hi there 👋
+### Cześć, jestem Daniel :smiley:
+Aktualnie student ostatnich lat studiów magisterskich na kierunku informatycznym.
+Jest to konto na którym umieszczam swoje własne projekty oraz projekty uczelniane. Najciekawsze z nich przypiąłem na dole :heart_eyes:
+### Na czym się skupiam :star:
+Głównie na backendzie. Swoje projekty głównie piszę w języku Java 8 oraz Java 11, a coraz częściej także w Kotlinie. Posiadam także praktyczną znajomość biblioteki React.
 
-<!--
-**AndekQR/AndekQR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Znajdź mnie również na LinkedIn :earth_asia:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://www.linkedin.com/in/andekqr/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/andekqr/andekqr"></a> 
+</p>
